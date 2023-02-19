@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio Tema 3</title>
+    </head>
+    <body>
+        <h1>Aprendiendo a utilizar imágenes</h1>
+            <img src="https://i.blogs.es/b2bab0/crash1/450_1000.webp" alt="Crash Bandicoot" />
+        
+            <h1>Aprendiendo a utilizar los vídeos</h1>
+        <video width="400" height="300" controls autoplay muted loop>
+            <source src="ruta-lobo.mp4" type="video/mp4" />
+        </video>
+
+        <h1>Aprendiendo a utilizar los audios</h1>
+        <audio controls autoplay loop>
+            <source src="stand-by-me-cover.mp3" type="audio/mp3" />
+        </audio>
+    </body>
+</html>
